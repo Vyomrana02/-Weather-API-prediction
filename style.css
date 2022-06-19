@@ -140,12 +140,6 @@ nav .search-bar{
     color: rgb(0, 67, 190);
     font-weight: 800;
 }
-/* .cel-and-far span:hover{
-    background-color: var(--lightcolor);
-    border-radius: 5px;
-    color: rgb(0, 67, 190);
-    font-weight: 800;
-} */
 @media (max-width:900px){
     .nav-bar-content{
         display: none;
@@ -217,10 +211,6 @@ nav .search-bar{
 .icons{
     width: 40px;
     height: 40px;
-    /* background-image: url(./icon/11n.png);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat; */
 }
 .weather-detail{
     display: inline-block;
