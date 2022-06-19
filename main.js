@@ -27,7 +27,7 @@ function slide(btn){
     },25)
 }
 
-//
+
 const container = document.querySelector(".container");
 const temperature = document.querySelector(".temp");
 const cityName = document.querySelector(".city-name");
@@ -38,7 +38,7 @@ const input = document.querySelector(".search-bar");
 
 
 
-// 
+ 
 const wind = document.querySelector(".wind .data");
 const humidity = document.querySelector(".humidity .data");
 const pressure  = document.querySelector(".pressure .data");
