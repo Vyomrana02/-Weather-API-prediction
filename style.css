@@ -219,14 +219,8 @@ nav .search-bar{
     display: flex;
     flex-wrap: wrap;
 }
-/* .two{
-    background-image: url(./images/icons8-sun.svg);
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    max-width: 40px;
-    max-height: 40px;
-} */
+
+
 .wh{
     flex-basis: 50%;
     height: 4em;
