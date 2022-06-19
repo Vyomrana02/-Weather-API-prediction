@@ -66,6 +66,9 @@ nav .search-bar{
     right: 4%;
     transform: translateY(-50%);
 }
+
+
+
 @media (max-width:500px){
     nav{
         padding: 0% 1%;
@@ -140,6 +143,9 @@ nav .search-bar{
     color: rgb(0, 67, 190);
     font-weight: 800;
 }
+
+
+
 @media (max-width:900px){
     .nav-bar-content{
         display: none;
