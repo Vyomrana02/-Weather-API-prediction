@@ -1,9 +1,10 @@
 const leftbtn = document.querySelector(".left");
 const rightbtn = document.querySelector(".right");
 const allpopularCities = document.querySelector(".popular-card");
-
 const allcards = document.querySelector(".overview-card");
 const conversionTypes = document.querySelector(".cel-and-far");
+
+
 leftbtn.onclick = ()=>{
     slide('left');
 }
@@ -156,7 +157,6 @@ function showweatherdata(weatherdata, unitdeg, unitspeed){
     showoverviewData(weatherdata.daily);
 
 }
-
 
 function showoverviewData(data){
     
