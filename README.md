@@ -5,7 +5,9 @@
 
 Some Screenshots of the App is 
 ![1](https://user-images.githubusercontent.com/87069619/174579681-00ebb6e8-c9da-468d-a75a-3f5dce64c026.png)
-![1](https://user-images.githubusercontent.com/87069619/174579590-2e824268-6924-44d4-b3d6-ac713cb6d06f.png)
+
+![2](https://user-images.githubusercontent.com/87069619/174579764-7d50fc9e-04a7-4483-84fc-cfdb49e4738f.png)
+
 
 ![3](https://user-images.githubusercontent.com/87069619/174579634-1d089b90-0364-48b8-97d0-b22db250f616.png)
 
