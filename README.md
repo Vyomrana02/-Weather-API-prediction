@@ -3,7 +3,7 @@
 * A Weather App used to determine weather of particular city in real time.
 * It is made using Javascript, HTML, CSS and made use of [Open Weather Map](https://openweathermap.org/api) API.
 
-Some Screenshots of the App is 
+Below are some Screenshots of the App are:- 
 
 ![1](https://user-images.githubusercontent.com/87069619/174579681-00ebb6e8-c9da-468d-a75a-3f5dce64c026.png)
 
